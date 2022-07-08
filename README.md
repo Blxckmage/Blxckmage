@@ -1,1 +1,1 @@
-![Blxckmage's card name](https://cardivo.vercel.app/api?name=Faza%20Zikri&description=I%20am%20a%20front-end%20developer.&image=https://avatars.githubusercontent.com/u/50915025?s=40&v=4&background-color=%AA0144&font-color=%000000&pattern=topography&colorPattern=%AA0144)
+![Blxckmage's card name](https://cardivo.vercel.app/api?name=Faza%20Zikri&description=I%20am%20a%20front-end%20web%20developer&image=https://avatars.githubusercontent.com/u/50915025?v=4&backgroundColor=%23AA0144&instagram=fxzaaa&github=Blxckmage&pattern=topography&colorPattern=%23000000&opacity=0.5)
