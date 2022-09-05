@@ -1,1 +1,4 @@
-![Blxckmage's card name](https://cardivo.vercel.app/api?name=Faza%20Zikri&description=I%20am%20a%20front-end%20web%20developer&image=https://avatars.githubusercontent.com/u/50915025?v=4&backgroundColor=%23AA0144&instagram=fxzaaa&github=Blxckmage&pattern=topography&colorPattern=%23000000&opacity=0.5)
+I'm a self-taught Front-end Web Developer.
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blxckmage&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Blxckmage's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blxckmage&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
