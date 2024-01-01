@@ -1,5 +1,9 @@
-I make stuff.
+<div align="justify">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/ccH9LWR/output-gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/ccH9LWR/output-gif.gif">
+    <img alt="..." src="https://i.ibb.co/ccH9LWR/output-gif.gif">
+</picture>
+</div>
 
-| <a href="https://github.com/Blxckmage"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Blxckmage&show_icons=true&theme=tokyonight" alt="Blxckmage's github stats" /></a> | <a href="https://github.com/Blxckmage"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blxckmage&layout=compact&theme=tokyonight" /></a> |
-| ------------- | ------------- |
-
+<!-- Image deletion URL: https://ibb.co/RpmKyXt/677065660607df389aadcbf83415d903 -->
